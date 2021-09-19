@@ -1,4 +1,4 @@
-omando pra criar chave ssh
+Comando para criar chave ssh
 
 ssh-keygen -t ed25519 -C meuEmail@gmail.com
 
@@ -13,7 +13,6 @@ id_ed25519  id_ed25519.pub
 //copia a chave
 
 //iniciar o gerenciador de chaves
-com esse comando
 
 eval $(ssh-agent -s)
 
